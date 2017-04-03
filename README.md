@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi, it's Rachael.
+Just here to learn about Github.
